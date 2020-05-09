@@ -14,6 +14,7 @@ TweenMax.to(".img-content", 6, {
     });
   });
  
+  
    //#6
   const boxes = document.querySelectorAll("p");
   boxes.forEach(box => {
